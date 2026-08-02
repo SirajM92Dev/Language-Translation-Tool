@@ -1,6 +1,6 @@
-# 🌍 CodeAlpha - Language Translation Tool
+# 🌍 Language Translation Tool
 
-An AI-powered multilingual language translation application developed using **Python**, **Gradio**, and **Google Translate** as part of the **CodeAlpha Internship Program**.
+An AI-powered multilingual language translation application developed using **Python**, **Gradio**, and **Google Translate**.
 
 The application allows users to enter text, select source and target languages, and instantly translate text through a simple and interactive graphical user interface.
 
