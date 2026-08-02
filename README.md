@@ -81,7 +81,3 @@ The objective of this project is to develop a simple AI-powered language transla
 - Microsoft Certified: Azure AI Fundamentals (AI-900)
 
 ---
-
-## ⭐ Acknowledgement
-
-This project was developed as part of the **CodeAlpha Internship Program**.
